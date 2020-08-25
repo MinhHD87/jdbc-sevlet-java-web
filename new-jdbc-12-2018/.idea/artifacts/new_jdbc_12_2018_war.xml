@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="new-jdbc-12-2018:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>new-jdbc-12-2018</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="new-jdbc-12-month-2018-1.0.war">
+      <element id="artifact" artifact-name="new-jdbc-12-2018:war exploded" />
+    </root>
+  </artifact>
+</component>
